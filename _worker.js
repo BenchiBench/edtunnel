@@ -10,7 +10,6 @@ const proxyIPs = ["workers.cloudflare.cyou"];//['cdn.xn--b6gac.eu.org', 'cdn-all
 
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
 
-
 if (!isValidUUID(userID)) {
 	throw new Error('uuid is not valid');
 }
