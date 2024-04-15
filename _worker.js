@@ -9,7 +9,6 @@ let userID = '581b9250-aabf-481e-a3f8-18e0d88ed220';
 let proxyIP = '';
 
 
-
 if (!isValidUUID(userID)) {
 	throw new Error('uuid is not valid');
 }
