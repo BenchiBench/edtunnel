@@ -9,7 +9,6 @@ let userID = '581b9250-aabf-481e-a3f8-18e0d88ed220';
 const proxyIPs = ["cp.cloudflare.com"];
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
 
-
 if (!isValidUUID(userID)) {
 	throw new Error('uuid is not valid');
 }
