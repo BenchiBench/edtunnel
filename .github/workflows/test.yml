@@ -2,10 +2,8 @@ name: Deploy Worker Script
 
 on:
   push:
-    branches:
-      - '**'
-    paths:
-      - '_worker.js'
+    tags:
+      - '*'  # 当任何标签被推送时触发
 
 jobs:
   deploy-worker:
