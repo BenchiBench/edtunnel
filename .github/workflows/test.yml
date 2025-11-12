@@ -1,10 +1,9 @@
 name: Deploy Worker Script
 
 on:
-  workflow_dispatch:
   push:
     branches:
-      - '**'  # 仅匹配分支推送，排除标签推送
+      - '**'
     paths:
       - '_worker.js'
 
