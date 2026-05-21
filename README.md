@@ -10,6 +10,16 @@ http port   --->  80, 8080, 8880, 2052, 2086, 2095
 https port  ---> 443, 8443, 2053, 2096, 2087, 2083
 ```
 
+# EDtunnel
+GitHub Repository for [https://github.com/cmliu/edgetunnel](https://github.com/cmliu/edgetunnel)
+
+[![Repository](https://img.shields.io/badge/View%20on-GitHub-blue.svg)](https://github.com/cmliu/edgetunnel)
+
+# EDtunnel
+GitHub Repository for [https://github.com/byJoey/cfnew](https://github.com/byJoey/cfnew)
+
+[![Repository](https://img.shields.io/badge/View%20on-GitHub-blue.svg)](https://github.com/byJoey/cfnew)
+
 # edtunnel
 GitHub Repository for [https://github.com/zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)
 
